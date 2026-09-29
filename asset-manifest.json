@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/awt-experiment-9/static/css/main.11138f8c.css",
+    "main.js": "/awt-experiment-9/static/js/main.f437b814.js",
+    "static/js/453.f354673a.chunk.js": "/awt-experiment-9/static/js/453.f354673a.chunk.js",
+    "index.html": "/awt-experiment-9/index.html",
+    "main.11138f8c.css.map": "/awt-experiment-9/static/css/main.11138f8c.css.map",
+    "main.f437b814.js.map": "/awt-experiment-9/static/js/main.f437b814.js.map",
+    "453.f354673a.chunk.js.map": "/awt-experiment-9/static/js/453.f354673a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11138f8c.css",
+    "static/js/main.f437b814.js"
+  ]
+}
